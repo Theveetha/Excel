@@ -1,9 +1,11 @@
 # Loan Repayment Calculator
 
-## Objective
+### ***Objective***
+
 This Excel model helps compare loan options from three different banks to determine the best choice based on budget and loan duration.
 
-## Methodology
+### ***Methodology***
+
 The PMT function is used to calculate the monthly EMI based on:
 
 ✔ Loan amount
@@ -14,5 +16,6 @@ The PMT function is used to calculate the monthly EMI based on:
 
 The total interest paid over the loan period is computed to evaluate the most cost-effective option.
 
-## Outcome
+### ***Outcome***
+
 By comparing the total repayment amounts, this tool helps select the most suitable bank for the loan, ensuring an informed financial decision.
